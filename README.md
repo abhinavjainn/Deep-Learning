@@ -1,6 +1,6 @@
 # Deep-Learning
 
-Collection of Deep Learning projets. It is an evolving repository with new sections and projects being added periodically.
+Collection of Deep Learning experiments. It is an evolving repository with new sections and experiments being added periodically.
 
 Current components:
 1. Computer Vision
