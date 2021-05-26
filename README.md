@@ -11,3 +11,6 @@ Current components:
       
       Library used: PyTorch.
       
+     b. Super Resolution:
+      
+      i) SRCNN: Experiments with a pretrained original SRCNN model.
