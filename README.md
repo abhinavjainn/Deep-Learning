@@ -14,3 +14,5 @@ Current components:
      b. Super Resolution:
       
       i) SRCNN: Experiments with a pretrained original SRCNN model.
+      
+      Reference paper: https://link.springer.com/content/pdf/10.1007/978-3-319-10593-2_13.pdf
