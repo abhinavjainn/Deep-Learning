@@ -19,3 +19,11 @@ Current components:
    Library used: PyTorch.
       
    Reference paper: https://link.springer.com/content/pdf/10.1007/978-3-319-10593-2_13.pdf
+   
+   ### c. Generative Adverserial Networks (GAN's):
+   
+   i) Original GAN: Implementation of original GAN as per the paper.
+   
+   Library used: PyTorch.
+   
+   Reference paper: https://arxiv.org/pdf/1406.2661.pdf
